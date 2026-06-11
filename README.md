@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Manan Arora</h1>
 <h3 align="center">Backend Developer | Node.js • Express.js • MongoDB</h3>
 
@@ -71,5 +71,5 @@ https://github.com/manan-arora/project-management-backend
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - LeetCode: https://leetcode.com/u/YOUR_LEETCODE
 - Email: **mananarora1350@gmail.com**
-```
+
 
