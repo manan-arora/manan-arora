@@ -56,13 +56,17 @@ https://github.com/manan-arora/project-management-backend
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manan-arora&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=manan-arora&theme=github-dark&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=manan-arora&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-arora&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
