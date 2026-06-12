@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Node.js • Express.js • MongoDB • React</h3>
 
 <p align="center">
-Backend developer with experience building production-ready REST APIs,
+Full Stack developer with experience building production-ready REST APIs,
 secure authentication systems, and RBAC workflows.
 </p>
 
