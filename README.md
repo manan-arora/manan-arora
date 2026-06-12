@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manan Arora</h1>
-<h3 align="center">Backend Developer | Node.js • Express.js • MongoDB</h3>
+<h3 align="center">Full Stack Developer | Node.js • Express.js • MongoDB • React</h3>
 
 <p align="center">
 Backend developer with experience building production-ready REST APIs,
