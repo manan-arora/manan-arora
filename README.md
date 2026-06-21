@@ -12,7 +12,7 @@ secure authentication systems, and RBAC workflows.
 ## 🚀 Current Focus
 
 - 🔨 Building backend systems with **Node.js & Express.js**
-- 🌱 Learning **React, Next.js, PostgreSQL & System Design**
+- 🌱 Learning **Next.js, PostgreSQL & System Design**
 - 📚 Solving **Data Structures & Algorithms**
 
 ---
