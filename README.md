@@ -118,7 +118,7 @@ https://github.com/manan-arora/project-management-backend
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/manan-arora-aa1009235
+- LinkedIn: https://www.linkedin.com/in/mananarora04
 - LeetCode: https://leetcode.com/u/mananarora04
 - Email: **mananarora1350@gmail.com**
 
