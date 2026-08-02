@@ -103,15 +103,14 @@ https://github.com/manan-arora/project-management-backend
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=manan-arora&show_icons=true&theme=github_dark" />
-</td>
-<td>
-<img src="https://github-stats-extended.vercel.app/api?username=manan-arora&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />
-</td>
-</tr>
+<table align="center"> 
+  <tr>
+    <td> 
+      <img src="https://streak-stats.demolab.com?user=manan-arora&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" /> </td> 
+    <td> 
+      <img src="https://github-stats-extended.vercel.app/api?username=manan-arora&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" /> 
+    </td> 
+  </tr> 
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manan-arora&theme=github-dark&hide_border=true" />
